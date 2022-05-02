@@ -11,6 +11,6 @@ namespace AT1__PerfectPolicy_.DTO
         public string QuestionText { get; set; }
         public string QuestionImage { get; set; }
         //public int QuizID { get; set; }
-        public string Creator { get; set; }
+        public string QuizTitle { get; set; }
     }
 }

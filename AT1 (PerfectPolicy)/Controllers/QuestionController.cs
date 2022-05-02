@@ -60,8 +60,8 @@ namespace AT1__PerfectPolicy_.Controllers
                     QuestionTopic = question.QuestionTopic,
                     QuestionText = question.QuestionText,
                     QuestionImage = question.QuestionImage,
-                    Creator = question.Creator
-                };
+                    QuizTitle = question.QuizTitle
+            };
 
             _context.Questions.Add(newQuestion);
             _context.SaveChanges();
@@ -115,7 +115,7 @@ namespace AT1__PerfectPolicy_.Controllers
 
         public ActionResult QuestionsForQuizId(string id)
         {
-            return Ok(_context.Questions.Where(c => c.Creator == id));
+            return Ok(_context.Questions.Where(c => c.QuizTitle == id));
         }
 
         #endregion

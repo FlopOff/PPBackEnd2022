@@ -11,7 +11,7 @@ namespace AT1__PerfectPolicy_.Models
         public string QuestionTopic { get; set; }
         public string QuestionText { get; set; }
         public string QuestionImage { get; set; }
-        public string Creator { get; set; }
+        public string QuizTitle { get; set; }
 
         //public int QuizID { get; set; }
 
