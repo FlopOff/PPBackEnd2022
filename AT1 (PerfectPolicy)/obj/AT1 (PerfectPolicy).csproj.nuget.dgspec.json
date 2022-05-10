@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\c\\PPBackEnd2022\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj": {}
+    "C:\\Users\\Student\\Source\\Repos\\FlopOff\\PPBackEnd2022\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj": {}
   },
   "projects": {
-    "D:\\Github\\c\\PPBackEnd2022\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj": {
+    "C:\\Users\\Student\\Source\\Repos\\FlopOff\\PPBackEnd2022\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\c\\PPBackEnd2022\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Source\\Repos\\FlopOff\\PPBackEnd2022\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj",
         "projectName": "AT1 (PerfectPolicy)",
-        "projectPath": "D:\\Github\\c\\PPBackEnd2022\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj",
-        "packagesPath": "C:\\Users\\Benjamin Moore\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\c\\PPBackEnd2022\\AT1 (PerfectPolicy)\\obj\\",
+        "projectPath": "C:\\Users\\Student\\Source\\Repos\\FlopOff\\PPBackEnd2022\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Source\\Repos\\FlopOff\\PPBackEnd2022\\AT1 (PerfectPolicy)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Benjamin Moore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
